@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.sourcelink.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\bin\Debug\net8.0\Thread-Task-AwaitAsync.Helper.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\bin\Debug\net8.0\Thread-Task-AwaitAsync.Helper.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\bin\Debug\net8.0\Thread-Task-AwaitAsync.Helper.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\bin\Debug\net8.0\Thread-Task-AwaitAsync.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\bin\Debug\net8.0\Thread-Task-AwaitAsync.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.csproj.CopyComplete
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\refint\Thread-Task-AwaitAsync.Helper.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\Thread-Task-AwaitAsync.Helper.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Helper\obj\Debug\net8.0\ref\Thread-Task-AwaitAsync.Helper.dll

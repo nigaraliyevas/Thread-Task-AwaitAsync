@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\bin\Debug\net8.0\Thread-Task-AwaitAsync.Domain.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\bin\Debug\net8.0\Thread-Task-AwaitAsync.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\bin\Debug\net8.0\Thread-Task-AwaitAsync.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.sourcelink.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\refint\Thread-Task-AwaitAsync.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\Thread-Task-AwaitAsync.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Thread-Task-AwaitAsync\Thread-Task-AwaitAsync.Domain\obj\Debug\net8.0\ref\Thread-Task-AwaitAsync.Domain.dll
